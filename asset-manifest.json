@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/oalem/static/css/main.852c922d.css",
+    "main.js": "/oalem/static/js/main.e4e33d31.js",
+    "static/media/image-about-product.png": "/oalem/static/media/image-about-product.87a2e97b414adb1dfdcc.png",
+    "static/media/image-home-product-top.svg": "/oalem/static/media/image-home-product-top.0751cdb279aff1a8717fea6ac7e3d2e8.svg",
+    "static/media/LogoOalem.png": "/oalem/static/media/LogoOalem.fba41e6e45c7a732a75b.png",
+    "static/media/work-bg-image.png": "/oalem/static/media/work-bg-image.4145c52eef23a745a0c2.png",
+    "index.html": "/oalem/index.html",
+    "static/media/header-bg-purple-svg.svg": "/oalem/static/media/header-bg-purple-svg.5d998285d9bf6c9bfcdc0e779863a444.svg",
+    "main.852c922d.css.map": "/oalem/static/css/main.852c922d.css.map",
+    "main.e4e33d31.js.map": "/oalem/static/js/main.e4e33d31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.852c922d.css",
+    "static/js/main.e4e33d31.js"
+  ]
+}
